@@ -45,10 +45,10 @@ val = firstName.charAt(firstName.length - 1);
 
 
 // substring()
-val = firstName.substr(0,4); // index 0 to 4, include 0 exclude 4
+val = firstName.substr(0, 4); // index 0 to 4, include 0 exclude 4
 
 // slice()
-val = firstName.slice(0,4);
+val = firstName.slice(0, 4);
 val = firstName.slice(-3);
 
 // split()
